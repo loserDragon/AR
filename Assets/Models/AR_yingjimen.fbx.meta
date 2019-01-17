@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: 55487b2d30c774d748309373d4bba480
+timeCreated: 1520847518
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: l6:cheti
+    100004: l6:pasted__pasted__pasted__polySurface4100
+    100006: l6:pasted__polySurface1469
+    100008: l6:pCube155
+    100010: l6:pCube156
+    100012: l6:pCube283
+    100014: l6:pCube288
+    100016: l6:pCube289
+    100018: l6:pCube290
+    100020: l6:pCube291
+    100022: l6:pCube307
+    100024: l6:pCube308
+    100026: l6:pCube309
+    100028: l6:pCube311
+    100030: l6:pCube41
+    100032: l6:pCube6
+    100034: l6:pCylinder167
+    100036: l6:pCylinder293
+    100038: l6:pCylinder294
+    100040: l6:pCylinder307
+    100042: l6:pCylinder308
+    100044: l6:polySurface1
+    100046: l6:polySurface1374
+    100048: l6:polySurface1378
+    100050: l6:polySurface1455
+    100052: l6:polySurface1457
+    100054: l6:polySurface1612
+    100056: l6:polySurface1613
+    100058: l6:polySurface1615
+    100060: l6:polySurface1633
+    100062: l6:polySurface1638
+    100064: l6:polySurface1641
+    100066: l6:polySurface1643
+    100068: l6:polySurface1653
+    100070: l6:polySurface176
+    100072: l6:polySurface178
+    100074: l6:polySurface183
+    100076: l6:polySurface187
+    100078: l6:polySurface28
+    100080: l6:polySurface3063
+    100082: l6:polySurface3352
+    100084: l6:polySurface350
+    100086: l6:polySurface358
+    100088: l6:polySurface366
+    100090: l6:polySurface386
+    100092: l6:polySurface4061
+    100094: l6:polySurface4146
+    100096: l6:polySurface43
+    100098: l6:polySurface4707
+    100100: l6:polySurface4883
+    100102: l6:polySurface4884
+    100104: l6:polySurface4885
+    100106: l6:polySurface4991
+    100108: l6:polySurface4993
+    100110: l6:polySurface4994
+    100112: l6:polySurface4996
+    100114: l6:polySurface4997
+    100116: l6:polySurface4998
+    100118: l6:polySurface4999
+    100120: l6:polySurface5000
+    100122: l6:polySurface5001
+    100124: l6:polySurface5002
+    100126: l6:polySurface5003
+    100128: l6:polySurface5004
+    100130: l6:polySurface5006
+    100132: l6:polySurface5007
+    100134: l6:polySurface5008
+    100136: l6:polySurface5012
+    100138: l6:polySurface5013
+    100140: l6:polySurface5014
+    100142: l6:polySurface5015
+    100144: l6:polySurface5027
+    100146: l6:polySurface5029
+    100148: l6:polySurface5030
+    100150: l6:polySurface5031
+    100152: l6:polySurface758
+    100154: l6:polySurface786
+    100156: l6:polySurface867
+    100158: l6:taban
+    100160: l6:yingjimen
+    100162: l7:polySurface3352
+    100164: l7:polySurface3371
+    100166: l7:polySurface3374
+    100168: l7:polySurface3376
+    100170: l7:polySurface3382
+    100172: l7:polySurface3384
+    100174: l7:polySurface3385
+    100176: pasted__pasted__pasted__Box005
+    100178: pasted__pasted__pasted__pCube307
+    100180: pasted__pasted__pasted__polySurface4061
+    100182: pasted__pasted__pasted__polySurface4074
+    100184: pasted__pasted__pasted__polySurface4100
+    100186: polySurface4962
+    100188: polySurface5010
+    100190: polySurface5012
+    100192: polySurface5013
+    400000: //RootNode
+    400002: l6:cheti
+    400004: l6:pasted__pasted__pasted__polySurface4100
+    400006: l6:pasted__polySurface1469
+    400008: l6:pCube155
+    400010: l6:pCube156
+    400012: l6:pCube283
+    400014: l6:pCube288
+    400016: l6:pCube289
+    400018: l6:pCube290
+    400020: l6:pCube291
+    400022: l6:pCube307
+    400024: l6:pCube308
+    400026: l6:pCube309
+    400028: l6:pCube311
+    400030: l6:pCube41
+    400032: l6:pCube6
+    400034: l6:pCylinder167
+    400036: l6:pCylinder293
+    400038: l6:pCylinder294
+    400040: l6:pCylinder307
+    400042: l6:pCylinder308
+    400044: l6:polySurface1
+    400046: l6:polySurface1374
+    400048: l6:polySurface1378
+    400050: l6:polySurface1455
+    400052: l6:polySurface1457
+    400054: l6:polySurface1612
+    400056: l6:polySurface1613
+    400058: l6:polySurface1615
+    400060: l6:polySurface1633
+    400062: l6:polySurface1638
+    400064: l6:polySurface1641
+    400066: l6:polySurface1643
+    400068: l6:polySurface1653
+    400070: l6:polySurface176
+    400072: l6:polySurface178
+    400074: l6:polySurface183
+    400076: l6:polySurface187
+    400078: l6:polySurface28
+    400080: l6:polySurface3063
+    400082: l6:polySurface3352
+    400084: l6:polySurface350
+    400086: l6:polySurface358
+    400088: l6:polySurface366
+    400090: l6:polySurface386
+    400092: l6:polySurface4061
+    400094: l6:polySurface4146
+    400096: l6:polySurface43
+    400098: l6:polySurface4707
+    400100: l6:polySurface4883
+    400102: l6:polySurface4884
+    400104: l6:polySurface4885
+    400106: l6:polySurface4991
+    400108: l6:polySurface4993
+    400110: l6:polySurface4994
+    400112: l6:polySurface4996
+    400114: l6:polySurface4997
+    400116: l6:polySurface4998
+    400118: l6:polySurface4999
+    400120: l6:polySurface5000
+    400122: l6:polySurface5001
+    400124: l6:polySurface5002
+    400126: l6:polySurface5003
+    400128: l6:polySurface5004
+    400130: l6:polySurface5006
+    400132: l6:polySurface5007
+    400134: l6:polySurface5008
+    400136: l6:polySurface5012
+    400138: l6:polySurface5013
+    400140: l6:polySurface5014
+    400142: l6:polySurface5015
+    400144: l6:polySurface5027
+    400146: l6:polySurface5029
+    400148: l6:polySurface5030
+    400150: l6:polySurface5031
+    400152: l6:polySurface758
+    400154: l6:polySurface786
+    400156: l6:polySurface867
+    400158: l6:taban
+    400160: l6:yingjimen
+    400162: l7:polySurface3352
+    400164: l7:polySurface3371
+    400166: l7:polySurface3374
+    400168: l7:polySurface3376
+    400170: l7:polySurface3382
+    400172: l7:polySurface3384
+    400174: l7:polySurface3385
+    400176: pasted__pasted__pasted__Box005
+    400178: pasted__pasted__pasted__pCube307
+    400180: pasted__pasted__pasted__polySurface4061
+    400182: pasted__pasted__pasted__polySurface4074
+    400184: pasted__pasted__pasted__polySurface4100
+    400186: polySurface4962
+    400188: polySurface5010
+    400190: polySurface5012
+    400192: polySurface5013
+    2300000: l6:pasted__pasted__pasted__polySurface4100
+    2300002: l6:pasted__polySurface1469
+    2300004: l6:pCube155
+    2300006: l6:pCube156
+    2300008: l6:pCube283
+    2300010: l6:pCube288
+    2300012: l6:pCube289
+    2300014: l6:pCube290
+    2300016: l6:pCube291
+    2300018: l6:pCube307
+    2300020: l6:pCube308
+    2300022: l6:pCube309
+    2300024: l6:pCube311
+    2300026: l6:pCube41
+    2300028: l6:pCube6
+    2300030: l6:pCylinder167
+    2300032: l6:pCylinder293
+    2300034: l6:pCylinder294
+    2300036: l6:pCylinder307
+    2300038: l6:pCylinder308
+    2300040: l6:polySurface1
+    2300042: l6:polySurface1374
+    2300044: l6:polySurface1378
+    2300046: l6:polySurface1455
+    2300048: l6:polySurface1457
+    2300050: l6:polySurface1612
+    2300052: l6:polySurface1613
+    2300054: l6:polySurface1615
+    2300056: l6:polySurface1633
+    2300058: l6:polySurface1638
+    2300060: l6:polySurface1641
+    2300062: l6:polySurface1643
+    2300064: l6:polySurface1653
+    2300066: l6:polySurface176
+    2300068: l6:polySurface178
+    2300070: l6:polySurface183
+    2300072: l6:polySurface187
+    2300074: l6:polySurface28
+    2300076: l6:polySurface3063
+    2300078: l6:polySurface3352
+    2300080: l6:polySurface350
+    2300082: l6:polySurface358
+    2300084: l6:polySurface366
+    2300086: l6:polySurface386
+    2300088: l6:polySurface4061
+    2300090: l6:polySurface4146
+    2300092: l6:polySurface43
+    2300094: l6:polySurface4707
+    2300096: l6:polySurface4883
+    2300098: l6:polySurface4884
+    2300100: l6:polySurface4885
+    2300102: l6:polySurface4991
+    2300104: l6:polySurface4993
+    2300106: l6:polySurface4994
+    2300108: l6:polySurface4996
+    2300110: l6:polySurface4997
+    2300112: l6:polySurface4998
+    2300114: l6:polySurface4999
+    2300116: l6:polySurface5000
+    2300118: l6:polySurface5001
+    2300120: l6:polySurface5002
+    2300122: l6:polySurface5003
+    2300124: l6:polySurface5004
+    2300126: l6:polySurface5006
+    2300128: l6:polySurface5007
+    2300130: l6:polySurface5008
+    2300132: l6:polySurface5012
+    2300134: l6:polySurface5013
+    2300136: l6:polySurface5014
+    2300138: l6:polySurface5015
+    2300140: l6:polySurface5027
+    2300142: l6:polySurface5029
+    2300144: l6:polySurface5030
+    2300146: l6:polySurface5031
+    2300148: l6:polySurface758
+    2300150: l6:polySurface786
+    2300152: l6:polySurface867
+    2300154: l6:taban
+    2300156: l6:yingjimen
+    2300158: l7:polySurface3352
+    2300160: l7:polySurface3371
+    2300162: l7:polySurface3374
+    2300164: l7:polySurface3376
+    2300166: l7:polySurface3382
+    2300168: l7:polySurface3384
+    2300170: l7:polySurface3385
+    2300172: pasted__pasted__pasted__Box005
+    2300174: pasted__pasted__pasted__pCube307
+    2300176: pasted__pasted__pasted__polySurface4061
+    2300178: pasted__pasted__pasted__polySurface4074
+    2300180: pasted__pasted__pasted__polySurface4100
+    2300182: polySurface4962
+    2300184: polySurface5010
+    2300186: polySurface5012
+    2300188: polySurface5013
+    3300000: l6:pasted__pasted__pasted__polySurface4100
+    3300002: l6:pasted__polySurface1469
+    3300004: l6:pCube155
+    3300006: l6:pCube156
+    3300008: l6:pCube283
+    3300010: l6:pCube288
+    3300012: l6:pCube289
+    3300014: l6:pCube290
+    3300016: l6:pCube291
+    3300018: l6:pCube307
+    3300020: l6:pCube308
+    3300022: l6:pCube309
+    3300024: l6:pCube311
+    3300026: l6:pCube41
+    3300028: l6:pCube6
+    3300030: l6:pCylinder167
+    3300032: l6:pCylinder293
+    3300034: l6:pCylinder294
+    3300036: l6:pCylinder307
+    3300038: l6:pCylinder308
+    3300040: l6:polySurface1
+    3300042: l6:polySurface1374
+    3300044: l6:polySurface1378
+    3300046: l6:polySurface1455
+    3300048: l6:polySurface1457
+    3300050: l6:polySurface1612
+    3300052: l6:polySurface1613
+    3300054: l6:polySurface1615
+    3300056: l6:polySurface1633
+    3300058: l6:polySurface1638
+    3300060: l6:polySurface1641
+    3300062: l6:polySurface1643
+    3300064: l6:polySurface1653
+    3300066: l6:polySurface176
+    3300068: l6:polySurface178
+    3300070: l6:polySurface183
+    3300072: l6:polySurface187
+    3300074: l6:polySurface28
+    3300076: l6:polySurface3063
+    3300078: l6:polySurface3352
+    3300080: l6:polySurface350
+    3300082: l6:polySurface358
+    3300084: l6:polySurface366
+    3300086: l6:polySurface386
+    3300088: l6:polySurface4061
+    3300090: l6:polySurface4146
+    3300092: l6:polySurface43
+    3300094: l6:polySurface4707
+    3300096: l6:polySurface4883
+    3300098: l6:polySurface4884
+    3300100: l6:polySurface4885
+    3300102: l6:polySurface4991
+    3300104: l6:polySurface4993
+    3300106: l6:polySurface4994
+    3300108: l6:polySurface4996
+    3300110: l6:polySurface4997
+    3300112: l6:polySurface4998
+    3300114: l6:polySurface4999
+    3300116: l6:polySurface5000
+    3300118: l6:polySurface5001
+    3300120: l6:polySurface5002
+    3300122: l6:polySurface5003
+    3300124: l6:polySurface5004
+    3300126: l6:polySurface5006
+    3300128: l6:polySurface5007
+    3300130: l6:polySurface5008
+    3300132: l6:polySurface5012
+    3300134: l6:polySurface5013
+    3300136: l6:polySurface5014
+    3300138: l6:polySurface5015
+    3300140: l6:polySurface5027
+    3300142: l6:polySurface5029
+    3300144: l6:polySurface5030
+    3300146: l6:polySurface5031
+    3300148: l6:polySurface758
+    3300150: l6:polySurface786
+    3300152: l6:polySurface867
+    3300154: l6:taban
+    3300156: l6:yingjimen
+    3300158: l7:polySurface3352
+    3300160: l7:polySurface3371
+    3300162: l7:polySurface3374
+    3300164: l7:polySurface3376
+    3300166: l7:polySurface3382
+    3300168: l7:polySurface3384
+    3300170: l7:polySurface3385
+    3300172: pasted__pasted__pasted__Box005
+    3300174: pasted__pasted__pasted__pCube307
+    3300176: pasted__pasted__pasted__polySurface4061
+    3300178: pasted__pasted__pasted__polySurface4074
+    3300180: pasted__pasted__pasted__polySurface4100
+    3300182: polySurface4962
+    3300184: polySurface5010
+    3300186: polySurface5012
+    3300188: polySurface5013
+    4300000: l6:taban
+    4300002: l6:yingjimen
+    4300004: l6:polySurface1
+    4300006: l6:polySurface358
+    4300008: l6:polySurface5030
+    4300010: l6:polySurface3063
+    4300012: l7:polySurface3376
+    4300014: l7:polySurface3371
+    4300016: l7:polySurface3374
+    4300018: l6:polySurface3352
+    4300020: l7:polySurface3382
+    4300022: l7:polySurface3384
+    4300024: l7:polySurface3385
+    4300026: l7:polySurface3352
+    4300028: l6:polySurface4061
+    4300030: l6:polySurface183
+    4300032: pasted__pasted__pasted__polySurface4061
+    4300034: pasted__pasted__pasted__polySurface4100
+    4300036: l6:polySurface1643
+    4300038: pasted__pasted__pasted__polySurface4074
+    4300040: l6:polySurface4146
+    4300042: l6:polySurface1641
+    4300044: l6:polySurface4883
+    4300046: l6:polySurface4884
+    4300048: l6:polySurface4885
+    4300050: pasted__pasted__pasted__Box005
+    4300052: l6:polySurface4707
+    4300054: l6:pCube291
+    4300056: l6:pCylinder294
+    4300058: l6:pCube289
+    4300060: l6:pCylinder293
+    4300062: l6:pCube288
+    4300064: l6:pCube283
+    4300066: l6:pCube307
+    4300068: l6:pCylinder307
+    4300070: l6:pCube308
+    4300072: l6:pCylinder308
+    4300074: l6:pCube309
+    4300076: l6:polySurface1653
+    4300078: l6:pCube311
+    4300080: pasted__pasted__pasted__pCube307
+    4300082: l6:polySurface1638
+    4300084: l6:polySurface178
+    4300086: l6:polySurface366
+    4300088: l6:polySurface1378
+    4300090: l6:polySurface1633
+    4300092: l6:polySurface1457
+    4300094: l6:pCube41
+    4300096: l6:polySurface1613
+    4300098: l6:polySurface386
+    4300100: l6:polySurface758
+    4300102: l6:polySurface1615
+    4300104: l6:polySurface1374
+    4300106: l6:pCube156
+    4300108: l6:pCube155
+    4300110: l6:pCylinder167
+    4300112: l6:polySurface1455
+    4300114: l6:polySurface1612
+    4300116: l6:pasted__polySurface1469
+    4300118: l6:pCube290
+    4300120: l6:polySurface187
+    4300122: l6:pCube6
+    4300124: l6:polySurface43
+    4300126: l6:polySurface28
+    4300128: polySurface4962
+    4300130: l6:pasted__pasted__pasted__polySurface4100
+    4300132: l6:polySurface5029
+    4300134: l6:polySurface176
+    4300136: l6:polySurface867
+    4300138: l6:polySurface350
+    4300140: l6:polySurface786
+    4300142: l6:polySurface5027
+    4300144: polySurface5010
+    4300146: polySurface5012
+    4300148: polySurface5013
+    4300150: l6:polySurface4991
+    4300152: l6:polySurface4993
+    4300154: l6:polySurface4994
+    4300156: l6:polySurface4996
+    4300158: l6:polySurface4997
+    4300160: l6:polySurface4998
+    4300162: l6:polySurface4999
+    4300164: l6:polySurface5000
+    4300166: l6:polySurface5001
+    4300168: l6:polySurface5002
+    4300170: l6:polySurface5003
+    4300172: l6:polySurface5004
+    4300174: l6:polySurface5006
+    4300176: l6:polySurface5007
+    4300178: l6:polySurface5008
+    4300180: l6:polySurface5012
+    4300182: l6:polySurface5013
+    4300184: l6:polySurface5014
+    4300186: l6:polySurface5015
+    4300188: l6:polySurface5031
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 280
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: l6:cheti
+        weight: 1
+      - path: l6:cheti/l6:pasted__pasted__pasted__polySurface4100
+        weight: 1
+      - path: l6:cheti/l6:pasted__polySurface1469
+        weight: 1
+      - path: l6:cheti/l6:pCube6
+        weight: 1
+      - path: l6:cheti/l6:pCube41
+        weight: 1
+      - path: l6:cheti/l6:pCube155
+        weight: 1
+      - path: l6:cheti/l6:pCube156
+        weight: 1
+      - path: l6:cheti/l6:pCube283
+        weight: 1
+      - path: l6:cheti/l6:pCube288
+        weight: 1
+      - path: l6:cheti/l6:pCube289
+        weight: 1
+      - path: l6:cheti/l6:pCube290
+        weight: 1
+      - path: l6:cheti/l6:pCube291
+        weight: 1
+      - path: l6:cheti/l6:pCube307
+        weight: 1
+      - path: l6:cheti/l6:pCube308
+        weight: 1
+      - path: l6:cheti/l6:pCube309
+        weight: 1
+      - path: l6:cheti/l6:pCube311
+        weight: 1
+      - path: l6:cheti/l6:pCylinder167
+        weight: 1
+      - path: l6:cheti/l6:pCylinder293
+        weight: 1
+      - path: l6:cheti/l6:pCylinder294
+        weight: 1
+      - path: l6:cheti/l6:pCylinder307
+        weight: 1
+      - path: l6:cheti/l6:pCylinder308
+        weight: 1
+      - path: l6:cheti/l6:polySurface1
+        weight: 1
+      - path: l6:cheti/l6:polySurface28
+        weight: 1
+      - path: l6:cheti/l6:polySurface43
+        weight: 1
+      - path: l6:cheti/l6:polySurface176
+        weight: 1
+      - path: l6:cheti/l6:polySurface178
+        weight: 1
+      - path: l6:cheti/l6:polySurface183
+        weight: 1
+      - path: l6:cheti/l6:polySurface187
+        weight: 1
+      - path: l6:cheti/l6:polySurface350
+        weight: 1
+      - path: l6:cheti/l6:polySurface358
+        weight: 1
+      - path: l6:cheti/l6:polySurface366
+        weight: 1
+      - path: l6:cheti/l6:polySurface386
+        weight: 1
+      - path: l6:cheti/l6:polySurface758
+        weight: 1
+      - path: l6:cheti/l6:polySurface786
+        weight: 1
+      - path: l6:cheti/l6:polySurface867
+        weight: 1
+      - path: l6:cheti/l6:polySurface1374
+        weight: 1
+      - path: l6:cheti/l6:polySurface1378
+        weight: 1
+      - path: l6:cheti/l6:polySurface1455
+        weight: 1
+      - path: l6:cheti/l6:polySurface1457
+        weight: 1
+      - path: l6:cheti/l6:polySurface1612
+        weight: 1
+      - path: l6:cheti/l6:polySurface1613
+        weight: 1
+      - path: l6:cheti/l6:polySurface1615
+        weight: 1
+      - path: l6:cheti/l6:polySurface1633
+        weight: 1
+      - path: l6:cheti/l6:polySurface1638
+        weight: 1
+      - path: l6:cheti/l6:polySurface1641
+        weight: 1
+      - path: l6:cheti/l6:polySurface1643
+        weight: 1
+      - path: l6:cheti/l6:polySurface1653
+        weight: 1
+      - path: l6:cheti/l6:polySurface3063
+        weight: 1
+      - path: l6:cheti/l6:polySurface3352
+        weight: 1
+      - path: l6:cheti/l6:polySurface4061
+        weight: 1
+      - path: l6:cheti/l6:polySurface4146
+        weight: 1
+      - path: l6:cheti/l6:polySurface4707
+        weight: 1
+      - path: l6:cheti/l6:polySurface4883
+        weight: 1
+      - path: l6:cheti/l6:polySurface4884
+        weight: 1
+      - path: l6:cheti/l6:polySurface4885
+        weight: 1
+      - path: l6:cheti/l6:polySurface4991
+        weight: 1
+      - path: l6:cheti/l6:polySurface4993
+        weight: 1
+      - path: l6:cheti/l6:polySurface4994
+        weight: 1
+      - path: l6:cheti/l6:polySurface4996
+        weight: 1
+      - path: l6:cheti/l6:polySurface4997
+        weight: 1
+      - path: l6:cheti/l6:polySurface4998
+        weight: 1
+      - path: l6:cheti/l6:polySurface4999
+        weight: 1
+      - path: l6:cheti/l6:polySurface5000
+        weight: 1
+      - path: l6:cheti/l6:polySurface5001
+        weight: 1
+      - path: l6:cheti/l6:polySurface5002
+        weight: 1
+      - path: l6:cheti/l6:polySurface5003
+        weight: 1
+      - path: l6:cheti/l6:polySurface5004
+        weight: 1
+      - path: l6:cheti/l6:polySurface5006
+        weight: 1
+      - path: l6:cheti/l6:polySurface5007
+        weight: 1
+      - path: l6:cheti/l6:polySurface5008
+        weight: 1
+      - path: l6:cheti/l6:polySurface5012
+        weight: 1
+      - path: l6:cheti/l6:polySurface5013
+        weight: 1
+      - path: l6:cheti/l6:polySurface5014
+        weight: 1
+      - path: l6:cheti/l6:polySurface5015
+        weight: 1
+      - path: l6:cheti/l6:polySurface5027
+        weight: 1
+      - path: l6:cheti/l6:polySurface5029
+        weight: 1
+      - path: l6:cheti/l6:polySurface5030
+        weight: 1
+      - path: l6:cheti/l6:polySurface5031
+        weight: 1
+      - path: l6:cheti/l7:polySurface3352
+        weight: 1
+      - path: l6:cheti/l7:polySurface3371
+        weight: 1
+      - path: l6:cheti/l7:polySurface3374
+        weight: 1
+      - path: l6:cheti/l7:polySurface3376
+        weight: 1
+      - path: l6:cheti/l7:polySurface3382
+        weight: 1
+      - path: l6:cheti/l7:polySurface3384
+        weight: 1
+      - path: l6:cheti/l7:polySurface3385
+        weight: 1
+      - path: l6:cheti/pasted__pasted__pasted__Box005
+        weight: 1
+      - path: l6:cheti/pasted__pasted__pasted__pCube307
+        weight: 1
+      - path: l6:cheti/pasted__pasted__pasted__polySurface4061
+        weight: 1
+      - path: l6:cheti/pasted__pasted__pasted__polySurface4074
+        weight: 1
+      - path: l6:cheti/pasted__pasted__pasted__polySurface4100
+        weight: 1
+      - path: l6:cheti/polySurface4962
+        weight: 1
+      - path: l6:cheti/polySurface5010
+        weight: 1
+      - path: l6:cheti/polySurface5012
+        weight: 1
+      - path: l6:cheti/polySurface5013
+        weight: 1
+      - path: l6:taban
+        weight: 1
+      - path: l6:yingjimen
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

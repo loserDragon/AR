@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/book/welcome.unity
+    guid: d5431ef0d76884997856c2f08b96776c
+  - enabled: 1
+    path: Assets/Scenes/book/ShowVideo.unity
+    guid: 3ca92878864cd4d2db36b652698d85d1
+  - enabled: 1
+    path: Assets/Scenes/book/main.unity
+    guid: 75f0da317c02247b0aa02209d0509a95
+  - enabled: 0
+    path: Assets/Scenes/book/welcomeTools.unity
+    guid: ae5fd79fb9a2d41e9957570af5aaa17d
+  - enabled: 1
+    path: Assets/Scenes/book/tools.unity
+    guid: 561df7e71792d471f91a92ec38cdc7e1
+  - enabled: 1
+    path: Assets/Scenes/book/ShowHtml.unity
+    guid: 820b6fd9053c5423b9bf1c9d7415948a
+  - enabled: 0
+    path: Assets/Plugins/GSImagePicker/Scene.unity
+    guid: 9e279ddbbea4ec447b4185a9b2653626
+  - enabled: 1
+    path: Assets/Scenes/book/directory.unity
+    guid: 042423ea76ffe477d83406b01aa58835
+  - enabled: 1
+    path: Assets/Scenes/book/directory_video.unity
+    guid: 6fde945d05ec8d341b774055424434b6
+  - enabled: 1
+    path: Assets/Scenes/book/video.unity
+    guid: bcde2a16820ec40f49b0be45a292812e

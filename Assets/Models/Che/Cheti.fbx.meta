@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 92c81034ef608fa4faa96ceacfb831c9
+timeCreated: 1529459213
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cheboli1
+    100002: cheboli2
+    100004: cheboli3
+    100006: cheboli4
+    100008: cheboli5
+    100010: cheboli6
+    100012: cheboli7
+    100014: cheboli8
+    100016: Chediban
+    100018: Cheding
+    100020: Chefushou
+    100022: chejidianxiang
+    100024: chejidianxiang1
+    100026: Cheke
+    100028: cheneike
+    100030: //RootNode
+    100032: group8
+    400000: cheboli1
+    400002: cheboli2
+    400004: cheboli3
+    400006: cheboli4
+    400008: cheboli5
+    400010: cheboli6
+    400012: cheboli7
+    400014: cheboli8
+    400016: Chediban
+    400018: Cheding
+    400020: Chefushou
+    400022: chejidianxiang
+    400024: chejidianxiang1
+    400026: Cheke
+    400028: cheneike
+    400030: //RootNode
+    400032: group8
+    2300000: cheboli1
+    2300002: cheboli2
+    2300004: cheboli3
+    2300006: cheboli4
+    2300008: cheboli5
+    2300010: cheboli6
+    2300012: cheboli7
+    2300014: cheboli8
+    2300016: Chediban
+    2300018: Cheding
+    2300020: Chefushou
+    2300022: chejidianxiang
+    2300024: chejidianxiang1
+    2300026: Cheke
+    2300028: cheneike
+    3300000: cheboli1
+    3300002: cheboli2
+    3300004: cheboli3
+    3300006: cheboli4
+    3300008: cheboli5
+    3300010: cheboli6
+    3300012: cheboli7
+    3300014: cheboli8
+    3300016: Chediban
+    3300018: Cheding
+    3300020: Chefushou
+    3300022: chejidianxiang
+    3300024: chejidianxiang1
+    3300026: Cheke
+    3300028: cheneike
+    4300000: Cheding
+    4300002: Chediban
+    4300004: Chefushou
+    4300006: cheneike
+    4300008: chejidianxiang1
+    4300010: chejidianxiang
+    4300012: Cheke
+    4300014: cheboli7
+    4300016: cheboli8
+    4300018: cheboli1
+    4300020: cheboli2
+    4300022: cheboli3
+    4300024: cheboli4
+    4300026: cheboli5
+    4300028: cheboli6
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
